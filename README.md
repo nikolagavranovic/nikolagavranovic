@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolagavranovic&layout=compact&exclude_repo=WongKinYiu/yolov7)](https://github.com/nikolagavranoivc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolagavranovic&layout=compact&exclude_repo=WongKinYiu/yolov7,nikolagavranovic/chess-possitions-classification)](https://github.com/nikolagavranoivc/github-readme-stats)
 
 <!--
 **nikolagavranovic/nikolagavranovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolagavranovic&layout=compact)](https://github.com/nikolagavranoivc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolagavranovic&hide_progress=true)](https://github.com/nikolagavranoivc/github-readme-stats)
 
 
 <!--
